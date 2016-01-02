@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Corey Blake is an actor, a speaker, a facilitator, and the founder and CEO of Round Table Companies (RTC).'
-datePublished: '2016-01-02T21:00:35.246Z'
-dateModified: '2016-01-02T18:40:18.374Z'
+datePublished: '2016-01-02T21:03:21.791Z'
+dateModified: '2016-01-02T21:03:17.127Z'
 title: Who is Corey Blake
 author: []
 authors: []

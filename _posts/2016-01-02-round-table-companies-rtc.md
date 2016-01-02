@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: A storytelling company.
-datePublished: '2016-01-02T21:00:34.788Z'
-dateModified: '2016-01-02T20:25:35.511Z'
+datePublished: '2016-01-02T21:03:02.126Z'
+dateModified: '2016-01-02T21:02:33.437Z'
 title: Round Table Companies (RTC)
 author: []
 authors: []

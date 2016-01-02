@@ -4,8 +4,15 @@
         <description><![CDATA[Corey Blake Creative]]></description>
         <link>https://thegrid.ai/coreyblake/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 21:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jan 2016 21:03:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coreyblake/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Round Table Companies (RTC)]]></title>
+            <description><![CDATA[<article><h1>Round Table Companies (RTC)</h1><p>A storytelling company.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b2931c6cb55725cb09c99d69163a50e8eb1e7a6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/coreyblake/round-table-companies-rtc/index.html</link>
+            <guid isPermaLink="false">2a99fda6-f540-440c-a79c-4f159e168767</guid>
+            <pubDate>Sat, 02 Jan 2016 21:03:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What I do]]></title>
             <description><![CDATA[<article><h1>What I do</h1><p>I work almost exclusively with CEOs and Thought Leaders who have achieved success and have realized that legacy is different.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67c38ff6fecf78e5b8983a3176920743556b19f3.jpg"></article>]]></description>
@@ -46,13 +53,6 @@
             <description><![CDATA[<article><h1>The ORP Library</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/103e47fde2d1f553ff91b13cec1b28be0881ee97.png"></article>]]></description>
             <link>https://thegrid.ai/coreyblake/the-orp-library/index.html</link>
             <guid isPermaLink="false">c2bdb81f-1530-4aa4-8235-afc721f814b0</guid>
-            <pubDate>Sat, 02 Jan 2016 21:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Round Table Companies (RTC)]]></title>
-            <description><![CDATA[<article><h1>Round Table Companies (RTC)</h1><p>A storytelling company.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b2931c6cb55725cb09c99d69163a50e8eb1e7a6.jpg"></article>]]></description>
-            <link>https://thegrid.ai/coreyblake/round-table-companies-rtc/index.html</link>
-            <guid isPermaLink="false">2a99fda6-f540-440c-a79c-4f159e168767</guid>
             <pubDate>Sat, 02 Jan 2016 21:00:34 GMT</pubDate>
         </item>
     </channel>

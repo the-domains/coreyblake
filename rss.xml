@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CoreyBlake]]></title>
-        <description><![CDATA[CoreyBlake]]></description>
+        <title><![CDATA[Corey Blake Creative]]></title>
+        <description><![CDATA[Corey Blake Creative]]></description>
         <link>https://thegrid.ai/coreyblake/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 21:01:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jan 2016 21:02:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coreyblake/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What I do]]></title>
             <description><![CDATA[<article><h1>What I do</h1><p>I work almost exclusively with CEOs and Thought Leaders who have achieved success and have realized that legacy is different.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67c38ff6fecf78e5b8983a3176920743556b19f3.jpg"></article>]]></description>
             <link>https://thegrid.ai/coreyblake/what-i-do/index.html</link>
             <guid isPermaLink="false">ae6b14da-e88b-4373-84e2-f1b65be42e7b</guid>
+            <pubDate>Sat, 02 Jan 2016 21:02:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You were born to change the world. ]]></title>
+            <description><![CDATA[<article><h1>You were born to change the world. </h1><p>I was born to believe in you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b4f9944a5ee610ba956093c67b3121d52ad318f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/coreyblake/who-is-corey-blake/index.html</link>
+            <guid isPermaLink="false">38a1daec-d5ba-438d-9f82-dcd32f86eb49</guid>
             <pubDate>Sat, 02 Jan 2016 21:00:35 GMT</pubDate>
         </item>
         <item>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Path to Purpose]]></title>
-            <description><![CDATA[<article><h1>Path to Purpose</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e285d94d0b16bc3f8bbcba1acec64a049f270bc.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Path to Purpose</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3de2532b49a661871ce79cde7918fce94a63b57f.jpg"></article>]]></description>
             <link>https://thegrid.ai/coreyblake/path-to-purpose/index.html</link>
             <guid isPermaLink="false">15a04994-4668-469c-b2f0-0e2ac5495776</guid>
             <pubDate>Sat, 02 Jan 2016 21:00:34 GMT</pubDate>

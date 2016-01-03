@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: RTC has packaged 19 books and comics for children with disabilities.
-datePublished: '2016-01-02T21:00:34.936Z'
-dateModified: '2016-01-02T20:48:02.944Z'
+datePublished: '2016-01-03T15:24:03.409Z'
+dateModified: '2016-01-03T13:28:11.687Z'
 title: The ORP Library
 author: []
+sourcePath: _posts/2016-01-02-the-orp-library.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-02-the-orp-library.md
-published: true
-url: the-orp-library/index.html
-_type: Article
+_type: Blurb
 
 ---
 The ORP Library

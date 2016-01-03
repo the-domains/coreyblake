@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: A storytelling company.
-datePublished: '2016-01-02T21:03:02.126Z'
-dateModified: '2016-01-02T21:02:33.437Z'
+datePublished: '2016-01-03T15:16:56.244Z'
+dateModified: '2016-01-03T15:16:55.488Z'
 title: Round Table Companies (RTC)
 author: []
+sourcePath: _posts/2016-01-02-round-table-companies-rtc.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-02-round-table-companies-rtc.md
-published: true
 url: round-table-companies-rtc/index.html
-_type: Article
+_type: WebPage
 
 ---
 Round Table Companies (RTC)

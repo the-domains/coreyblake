@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Write the book you were born to write.
-datePublished: '2016-01-03T15:15:45.409Z'
-dateModified: '2016-01-03T15:15:43.250Z'
+datePublished: '2016-01-03T15:23:49.417Z'
+dateModified: '2016-01-03T15:18:19.670Z'
 title: Path to Purpose
 author: []
 sourcePath: _posts/2016-01-02-path-to-purpose.md

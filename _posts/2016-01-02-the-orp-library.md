@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: RTC has packaged 19 books and comics for children with disabilities.
-datePublished: '2016-01-03T15:40:25.689Z'
-dateModified: '2016-01-03T15:40:06.433Z'
+datePublished: '2016-01-03T15:40:49.480Z'
+dateModified: '2016-01-03T15:40:45.672Z'
 title: The ORP Library
 author: []
 sourcePath: _posts/2016-01-02-the-orp-library.md
@@ -35,8 +35,8 @@ handed out over 30,000 books to parents, educators, and healthcare
 professionals. They have also been pushed to open new facilities to serve the
 influx of new clients since our work started together. Our latest project is
 building an [online community][2], which was launched in December of 2014 and currently serves an audience of more than 9,000 parents, educators, and health care workers.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4c3ed86-8be0-4e45-9207-839e173e63de.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e72097e-133f-425a-bd6d-3d3ff12e78ad.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4c3ed86-8be0-4e45-9207-839e173e63de.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aca0b9e4-4467-47bc-8f37-ec65944926cc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/640fe639-d10d-4f69-99d5-dfb205c40634.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30bdfdaf-614a-4e0a-9c13-35a94a980d80.png)

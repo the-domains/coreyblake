@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'As a speaker, my purpose is to hold loving space for people where transformation is ignited.'
-datePublished: '2016-01-03T15:05:24.480Z'
-dateModified: '2016-01-03T13:27:17.487Z'
+datePublished: '2016-01-03T15:06:41.191Z'
+dateModified: '2016-01-03T15:06:37.978Z'
 title: 'Speaking & Facilitating'
 author: []
 sourcePath: _posts/2016-01-02-speaking-and-facilitating.md
@@ -19,6 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: speaking-and-facilitating/index.html
 _type: Blurb
 
 ---

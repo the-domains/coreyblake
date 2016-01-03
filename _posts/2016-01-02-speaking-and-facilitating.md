@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'As a speaker, my purpose is to hold loving space for people where transformation is ignited.'
-datePublished: '2016-01-02T21:00:34.940Z'
-dateModified: '2016-01-02T18:39:44.782Z'
+datePublished: '2016-01-03T15:05:24.480Z'
+dateModified: '2016-01-03T13:27:17.487Z'
 title: 'Speaking & Facilitating'
 author: []
+sourcePath: _posts/2016-01-02-speaking-and-facilitating.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-02-speaking-and-facilitating.md
-published: true
-url: speaking-and-facilitating/index.html
-_type: Article
+_type: Blurb
 
 ---
 As a speaker, my purpose is to hold loving space for others where transformation is ignited. That requires that I demonstrate vulnerability from the stage and then invite my audiences into a space of connecting with themselves and with one another. It is my job to activate that magic that lives within each of us and to create the opportunity for participants to be seen by one another beyond their job title or latest success or failure.

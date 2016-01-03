@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Write the book you were born to write.
-datePublished: '2016-01-02T21:00:34.952Z'
-dateModified: '2016-01-02T20:59:55.506Z'
+datePublished: '2016-01-03T15:15:45.409Z'
+dateModified: '2016-01-03T15:15:43.250Z'
 title: Path to Purpose
 author: []
+sourcePath: _posts/2016-01-02-path-to-purpose.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-02-path-to-purpose.md
-published: true
-url: path-to-purpose/index.html
-_type: Article
+_type: Blurb
 
 ---
 [Path to Purpose][0]
